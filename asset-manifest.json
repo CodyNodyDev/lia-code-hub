@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lia-code-hub/static/css/main.1673a78e.css",
+    "main.js": "/lia-code-hub/static/js/main.20f068c3.js",
+    "index.html": "/lia-code-hub/index.html",
+    "main.1673a78e.css.map": "/lia-code-hub/static/css/main.1673a78e.css.map",
+    "main.20f068c3.js.map": "/lia-code-hub/static/js/main.20f068c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1673a78e.css",
+    "static/js/main.20f068c3.js"
+  ]
+}
