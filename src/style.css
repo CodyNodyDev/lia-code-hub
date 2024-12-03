@@ -2,14 +2,18 @@
   --small-font-size: 12px;
 
   --header-title-size: 20px;
+  --button-small-label: 16px;
+  --button-normal-label: 20px;
+
+  --test-transition: 3s;
+  --default-transition: 0.2s;
 
   --black-color: #000000;
   --header-title-color: #F8EF00;
-}
+  --page-title-color: #E6E5E6;
+  --accent-background-color: #0D0712;
 
-* {
-  /* color: darkslategray; */
-  /* background-color: floralwhite; */
+  --standard-button-color: #00F0FF;
 }
 
 body {
@@ -26,7 +30,7 @@ code {
     monospace;
 }
 
-.title {
+.title, .button {
   font-family: "Stalinist One", sans-serif;
   font-weight: 400;
   font-style: normal;

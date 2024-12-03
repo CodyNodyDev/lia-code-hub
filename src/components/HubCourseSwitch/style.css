@@ -1,0 +1,36 @@
+.hub-course-switch-container {
+    border: 1px solid wheat;
+    max-width: 380px;
+    /* margin: auto; */
+    margin: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background-color: var(--accent-background-color);
+}
+
+.switch-button {
+    margin: 10px;
+    width: 160px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--page-title-color);
+    font-size: var(--button-small-label);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    /* border-color: var(--accent-background-color); */
+    border-color: rgba(248,239,0,1);
+    background-color: var(--accent-background-color);
+    cursor: pointer;
+}
+
+.selected-hub-button {
+    color: var(--accent-background-color);
+    border-color: rgba(248,239,0,1);
+    background-color: var(--standard-button-color);
+}
+

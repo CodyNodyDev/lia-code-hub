@@ -1,0 +1,28 @@
+.courses-section-container {
+    padding: 30px 0 135px 15px;
+    max-width: 370px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.courses-section-title {
+    color: var(--page-title-color);
+}
+
+.courses-list {
+    padding: 20px 15px 0 0;
+    color: wheat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+}
+
+.course-container {
+    max-width: 360px;
+    min-height: 320px;
+    border-radius: 10px;
+    background-color: azure;
+}
