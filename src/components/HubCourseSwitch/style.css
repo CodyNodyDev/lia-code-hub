@@ -1,8 +1,7 @@
 .hub-course-switch-container {
     border: 1px solid wheat;
-    max-width: 380px;
-    /* margin: auto; */
-    margin: 0 15px;
+    max-width: 360px;
+    margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
